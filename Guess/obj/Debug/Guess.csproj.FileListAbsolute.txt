@@ -1,0 +1,10 @@
+D:\App\Guess\Guess\Guess\bin\Debug\Guess.exe.config
+D:\App\Guess\Guess\Guess\bin\Debug\Guess.exe
+D:\App\Guess\Guess\Guess\bin\Debug\Guess.pdb
+D:\App\Guess\Guess\Guess\obj\Debug\Guess.csprojAssemblyReference.cache
+D:\App\Guess\Guess\Guess\obj\Debug\Guess.TheInitialWindow.resources
+D:\App\Guess\Guess\Guess\obj\Debug\Guess.Properties.Resources.resources
+D:\App\Guess\Guess\Guess\obj\Debug\Guess.csproj.GenerateResource.cache
+D:\App\Guess\Guess\Guess\obj\Debug\Guess.csproj.CoreCompileInputs.cache
+D:\App\Guess\Guess\Guess\obj\Debug\Guess.exe
+D:\App\Guess\Guess\Guess\obj\Debug\Guess.pdb
